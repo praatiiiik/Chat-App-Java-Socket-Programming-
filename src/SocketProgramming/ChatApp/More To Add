@@ -1,0 +1,51 @@
+🔧 Features to Add:
+✅ Multi-room support (chat rooms or channels)
+
+✅ Private messaging
+
+✅ Client-side GUI using JavaFX or Swing
+
+✅ Authentication (username/password)
+
+✅ Message history (store messages in a file or DB)
+
+✅ File sharing
+
+✅ User list (who's online)
+
+✅ Disconnect/reconnect gracefully
+
+Doing this will help you practice:
+
+OOP design principles
+
+Java collections and data structures
+
+IO/NIO
+
+Concurrency
+
+Separation of concerns (modular code)
+
+Once you feel it’s mature—publish it to GitHub with a neat README. Recruiters love that.
+
+✅ Step 2: Learn Core Java Concepts in Depth
+Make sure you're strong in:
+
+🔤 Java Basics to Master:
+OOP (Inheritance, Polymorphism, Encapsulation, Abstraction)
+
+Exception Handling
+
+Collections (List, Set, Map, Queue) and when to use them
+
+Streams and Lambdas (Java 8+)
+
+Multithreading & Concurrency
+
+File I/O and Serialization
+
+Generics
+
+Java Memory Model (GC, stack vs heap, etc.)
+
